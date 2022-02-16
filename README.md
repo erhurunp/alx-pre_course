@@ -1,4 +1,4 @@
-#ALX-SE Precourse
+# ALX-SE Precourse
 
-###This is my alx-pre_course directory
+### This is my alx-pre_course directory
 
